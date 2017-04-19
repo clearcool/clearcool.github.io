@@ -3,8 +3,8 @@ layout: page
 title: 关于我 
 ---
 
-<h3> 我们的博客 </h3> 
-一个 iOS SDK 开发者，喜欢研究一些新技术。
+<h3> 个人简介 </h3> 
+**个人信息:**张亚超 / 男 /23岁
 <p>
 平时喜欢整理个人博客，逛逛技术论坛。
 <p>
@@ -43,7 +43,7 @@ title: 关于我
 
 博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
 
-{% include comments.html %}
+
 
 
 
